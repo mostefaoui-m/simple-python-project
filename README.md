@@ -1,4 +1,4 @@
-here# Simple Python Project
+# Simple Python Project
 
 This is a small Python project created for learning purposes.
 
